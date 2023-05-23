@@ -1,6 +1,6 @@
 {
   "name": "p3",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "type": "module",
   "scripts": {
     "start": "vite",
@@ -11,8 +11,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "p1": "^2.0.0",
-    "p2": "^2.0.1",
+    "p1": "^2.0.2",
+    "p2": "^2.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
